@@ -10,7 +10,7 @@ header, footer {
   min-width: 500px;
 }
 header   {
-  font-family: Work Sans;
+  font-family: Barlow;
   color: #ffff;
   min-height: 100vh
 }
@@ -56,7 +56,7 @@ img {
 .bio {
   color: #ffffff;
   font-size: 24px;
-  font-family: 'Work Sans';
+  font-family: '';
 }
 .buttonBox {
   display: flex;
@@ -120,7 +120,7 @@ img {
 }
 
 .description {
-  font-family: Work Sans;
+  font-family: Barlow;
   font-size: 14px;
   font-weight: 300;
   line-height: 1.29;
