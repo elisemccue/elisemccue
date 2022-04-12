@@ -5,7 +5,7 @@
   margin: 0;
 }
 header, footer {
-  background-color: #84a98c;
+  background-color: #inherit84a98c;
   text-align: left;
   min-width: 500px;
 }
